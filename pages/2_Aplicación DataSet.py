@@ -27,3 +27,5 @@ st.pyplot(plt)
 location = st.selectbox("Selecciona una ubicación", df['Work_Location'].unique())
 filtered_df = df[df['Work_Location'] == location]
 st.dataframe(filtered_df)
+
+#Q
