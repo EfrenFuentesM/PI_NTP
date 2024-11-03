@@ -19,4 +19,5 @@ Interés del proyecto: Este análisis es relevante en el contexto actual, donde 
 
 Ejecutar el script:
 Ejecuta el siguiente comando en la terminal
+
 streamlit run "c:\ruta\donde\descargo\el\proyecto\PI_NTP\pages\2_Aplicación DataSet.py"
